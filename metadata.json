@@ -1,0 +1,8 @@
+{
+  "name": "Pembagian Kelompok Teaching Demo",
+  "description": "Aplikasi pembagian kelompok murid bertema upacara topi seleksi Hogwarts untuk PKG-MBI SDN Suryakencana CBM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
